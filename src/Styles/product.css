@@ -1,0 +1,144 @@
+.ProductContainer_productContainer__Z8v13 {
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(64, 77, 148, .4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    transition: all .25s ease-in-out;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.ProductImage_imageContainer__oUd9d {
+    width: 100%;
+    height: 250px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+element.style {
+    object-fit: contain;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.ProductDetails_productDetails__enV28 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.ProductDetails_productDetails__enV28 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.ProductDetails_productName__\+v5pg {
+    color: #224957;
+    font-family: Inter, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+    padding: 8px 0;
+}
+
+.ProductDetails_productName__\+v5pg p {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+user agent stylesheet p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.ProductDetails_productOptions__8UN4q {
+    align-items: center;
+    display: flex;
+    font-size: 24px;
+    justify-content: space-between;
+    padding: 8px 0;
+    width: 100%;
+}
+
+.ProductDetails_productOptions__8UN4q p {
+    color: #224957;
+    font-weight: 700;
+    margin: 0;
+}
+
+.ProductDetails_addBtn__6U9LF,
+.ProductDetails_removeBtn__8ZwRH {
+    color: #fff;
+    font-size: 20px;
+    padding: 0.75rem 0;
+    transition: all .3s ease-in-out;
+    width: 50%;
+    width: 100%;
+}
+
+.ProductDetails_addBtn__6U9LF:hover {
+    background-color: white;
+    border: 1px solid #7064e5;
+    color: black;
+}
+
+.ProductDetails_addBtn__6U9LF {
+    background: #7064e5;
+    border: 1px solid #7064e5;
+    border-radius: 6px;
+}
+
+.prod-cont {
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 0 rgba(64, 77, 148, .4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    transition: all .25s ease-in-out;
+}
+
+.prod-cont:hover {
+    box-shadow: 0 8px 16px 0 rgba(64, 77, 148, .4);
+    transition: all .25s ease-in-out;
+}
+
+.loader {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+}
